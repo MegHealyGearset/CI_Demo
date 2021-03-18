@@ -2066,6 +2066,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-ProcessException</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-ProcessInstanceWorkitem</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
